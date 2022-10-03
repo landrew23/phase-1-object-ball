@@ -1,0 +1,40 @@
+{
+  home: {
+   team_name: 'Brooklyn Nets',
+   colors: 'Black, White',
+   players : { 'Alan Anderson' : {
+    number :''
+    shoe: ''
+    points: ''
+    rebounds: ''
+    assists : ''
+    steals : ''
+    blocks : ''
+    slam_dunks:''},
+   'Reggie Evans' : {
+    number :''
+shoe: ''
+points: ''
+rebounds: ''
+assists : ''
+steals : ''
+blocks : ''
+   } ,
+
+   } 
+  }  
+ away : {
+    team_name: ''
+colors: ''
+players : {
+ number :''
+ shoe: ''
+ points: ''
+ rebounds: ''
+ assists : ''
+ steals : ''
+ blocks : ''
+ slam_dunks:''
+ }
+}
+}
